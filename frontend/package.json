@@ -19,7 +19,7 @@
         "ismobilejs": "^1.1.1",
         "node-sass": "^6.0.1",
         "react": "^17.0.2",
-        "react-app-polyfill": "^2.0.0",
+        "react-app-polyfill": "^3.0.0",
         "react-async-hook": "^4.0.0",
         "react-bootstrap": "^1.6.4",
         "react-dom": "^17.0.2",
